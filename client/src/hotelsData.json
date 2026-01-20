@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "Taj Hotel - Manali",
+    "address": "24th street | 800 m from manali bus stand",
+    "stars": "⭐⭐⭐⭐",
+    "reviews": 17149,
+    "roomInfo": "1 room, 2 guests",
+    "originalPrice": "₹ 1,500",
+    "discountedPrice": "₹ 1,200/night",
+    "image": "https://example.com/image1.jpg"
+  }
+]

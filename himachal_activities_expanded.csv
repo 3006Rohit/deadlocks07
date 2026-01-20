@@ -1,0 +1,81 @@
+city,name,cost,duration,type,type_encoded,satisfaction_score,weather_sensitive,min_age
+Shimla,"Jakhu Temple Visit",0,2,"cultural",1,75,False,0
+Shimla,"Hiking to Scandal Point",300,4,"adventure",2,85,True,12
+Shimla,"Toy Train Ride",500,3,"scenic",3,80,False,0
+Shimla,"Mall Road Shopping",0,2,"shopping",4,70,True,0
+Shimla,"Christ Church Visit",0,1,"cultural",1,78,False,0
+Shimla,"Glen Forest Walk",150,2,"nature",5,82,True,0
+Shimla,"Kufri Day Trip",800,6,"adventure",2,88,True,10
+Shimla,"Himalayan Bird Park",100,2,"nature",5,76,False,0
+Shimla,"Lakkar Bazaar Shopping",0,2,"shopping",4,72,True,0
+Shimla,"Summer Hill Trek",400,3,"adventure",2,84,True,12
+Manali,"Solang Valley Paragliding",2500,2,"adventure",2,95,True,16
+Manali,"Rohtang Pass Visit",1500,6,"nature",5,90,True,0
+Manali,"Hidimba Temple",0,1,"cultural",1,75,False,0
+Manali,"River Rafting",1200,3,"adventure",2,92,True,14
+Manali,"Vashisht Hot Springs",50,1,"wellness",6,80,False,0
+Manali,"Old Manali Cafe Tour",300,3,"food",7,85,False,12
+Manali,"Jogini Waterfall Trek",600,4,"adventure",2,89,True,10
+Manali,"Manu Temple Visit",0,1,"cultural",1,77,False,0
+Manali,"Zorbing in Solang",800,1,"adventure",2,87,True,12
+Manali,"Snow Point Visit",1000,5,"nature",5,91,True,0
+Dharamshala,"McLeodGanj Walking Tour",200,3,"cultural",1,82,True,0
+Dharamshala,"Triund Trek",800,8,"adventure",2,94,True,12
+Dharamshala,"Tibetan Museum",100,2,"cultural",1,78,False,0
+Dharamshala,"Bhagsu Waterfall",0,2,"nature",5,85,True,0
+Dharamshala,"Dalai Lama Temple",0,1,"spiritual",8,90,False,0
+Dharamshala,"Naddi Sunset Point",0,1,"scenic",3,83,False,0
+Dharamshala,"St. John Church",0,1,"cultural",1,76,False,0
+Dharamshala,"Kareri Lake Trek",1200,10,"adventure",2,96,True,14
+Dharamshala,"Tibetan Cooking Class",600,3,"food",7,88,False,12
+Dharamshala,"Bhagsunag Temple",0,1,"cultural",1,79,False,0
+Dalhousie,"Panchpula Trek",400,4,"nature",5,88,True,10
+Dalhousie,"Khajjiar Visit",600,5,"scenic",3,90,False,0
+Dalhousie,"Kalatop Forest Walk",300,3,"nature",5,85,True,0
+Dalhousie,"Dainkund Peak",500,6,"adventure",2,92,True,12
+Dalhousie,"Satdhara Falls",200,3,"nature",5,84,True,0
+Dalhousie,"Subhash Baoli",0,1,"cultural",1,76,False,0
+Dalhousie,"Ganji Pahari Trek",350,4,"adventure",2,87,True,10
+Dalhousie,"Lover's Lane Walk",0,2,"scenic",3,82,False,0
+Dalhousie,"St. John Church",0,1,"cultural",1,75,False,0
+Dalhousie,"Chamera Lake Boating",450,2,"water",9,89,True,6
+Kasauli,"Monkey Point Trek",0,3,"nature",5,83,True,0
+Kasauli,"Heritage Walk",200,2,"cultural",1,80,False,0
+Kasauli,"Sunset Point",0,1,"scenic",3,75,False,0
+Kasauli,"Gilbert Trail Hike",150,2,"nature",5,81,True,0
+Kasauli,"Baptist Church Visit",0,1,"cultural",1,77,False,0
+Kasauli,"Mall Road Shopping",0,2,"shopping",4,72,True,0
+Kasauli,"Toy Train Ride",400,3,"scenic",3,79,False,0
+Kasauli,"Gurkha Fort Visit",100,2,"cultural",1,78,False,0
+Kasauli,"Bird Watching",50,2,"nature",5,76,False,0
+Kasauli,"Christ Church",0,1,"cultural",1,74,False,0
+Palampur,"Tea Garden Tour",300,2,"nature",5,85,False,0
+Palampur,"Andretta Pottery",200,2,"cultural",1,82,False,0
+Palampur,"Bir Billing Paragliding",3000,2,"adventure",2,97,True,16
+Palampur,"Neugal Khad Picnic",0,3,"nature",5,84,False,0
+Palampur,"Baijnath Temple",0,1,"cultural",1,79,False,0
+Palampur,"Tashi Jong Monastery",0,1,"spiritual",8,86,False,0
+Palampur,"Chamunda Devi Temple",0,1,"cultural",1,78,False,0
+Palampur,"Billing Trek",1200,8,"adventure",2,94,True,14
+Palampur,"Saurabh Van Vihar",50,2,"nature",5,80,False,0
+Palampur,"Jakhani Temple Trek",400,4,"adventure",2,88,True,10
+Chamba,"Chaugan Visit",0,2,"cultural",1,80,False,0
+Chamba,"Bhuri Singh Museum",50,1,"cultural",1,77,False,0
+Chamba,"Khajjiar Lake",0,2,"nature",5,89,False,0
+Chamba,"Manimahesh Trek",1500,12,"adventure",2,95,True,16
+Chamba,"Rang Mahal",100,1,"cultural",1,76,False,0
+Chamba,"Chamera Dam Visit",200,3,"scenic",3,85,False,0
+Chamba,"Laxmi Narayan Temple",0,1,"cultural",1,78,False,0
+Chamba,"Hariraya Temple",0,1,"cultural",1,75,False,0
+Chamba,"Bharmour Trek",1800,14,"adventure",2,96,True,18
+Chamba,"Saho Waterfall",300,4,"nature",5,87,True,0
+Bir,"Paragliding Tandem Flight",2800,1,"adventure",2,98,True,16
+Bir,"Tibetan Colony Tour",150,2,"cultural",1,83,False,0
+Bir,"Deer Park Institute",0,1,"cultural",1,79,False,0
+Bir,"Chokling Monastery",0,1,"spiritual",8,85,False,0
+Bir,"Billing Viewpoint",0,1,"scenic",3,84,False,0
+Bir,"Sherab Ling Monastery",0,1,"spiritual",8,86,False,0
+Bir,"Bir Road Market",0,2,"shopping",4,75,False,0
+Bir,"Gunehar Waterfall",400,5,"nature",5,88,True,0
+Bir,"Baijnath Temple Visit",0,1,"cultural",1,77,False,0
+Bir,"Joginder Nagar Railway",500,4,"scenic",3,82,False,0

@@ -1,0 +1,91 @@
+city,name,price,rating,amenities_score,popularity_score,location,room_types,breakfast_included,free_cancellation
+Shimla,The Oberoi Cecil,4500,4.7,9,95,"Near The Mall",Deluxe|Suite,True,True
+Shimla,Hotel Willow Banks,3200,4.3,7,88,"Lakkar Bazaar",Standard|Deluxe,True,True
+Shimla,Clarkes Hotel,3800,4.5,8,92,"The Mall Road",Superior|Suite,True,False
+Shimla,Hotel Combermere,2900,4.1,7,85,"Chaura Maidan",Standard|Deluxe,True,True
+Shimla,Woodville Palace,5200,4.8,9,96,"Raj Bhawan Road",Heritage|Suite,True,True
+Shimla,East Bourne Resort,3500,4.4,8,89,"Summer Hill",Cottage|Villa,True,False
+Shimla,Hotel De Park,2500,4.0,6,82,"Lakkar Bazaar",Standard,False,False
+Shimla,Radisson Shimla,4800,4.7,9,94,"Chotta Shimla",Deluxe|Executive,True,True
+Shimla,Hotel Himland,2200,3.9,6,80,"The Mall",Standard,False,True
+Shimla,Marigold Sarovar,4100,4.6,8,91,"Chaura Maidan",Premium|Suite,True,True
+Manali,The Himalayan,5000,4.8,9,96,"Old Manali",Cottage|Suite,True,True
+Manali,Apple Country Resort,2800,4.2,7,85,"Aleo",Standard|Deluxe,False,True
+Manali,Hotel Snow Valley,3500,4.4,8,89,"Mall Road",Deluxe|Family,True,False
+Manali,Johnson Lodge,3200,4.3,7,87,"Circuit House Road",Standard|Deluxe,True,True
+Manali,Orchid Greens,3900,4.5,8,90,"Prini",Cottage|Villa,True,True
+Manali,Shivadya Resort,4200,4.6,8,92,"Aleo",Deluxe|Suite,True,False
+Manali,Hotel Himgiri,2600,4.1,7,84,"Mall Road",Standard,True,True
+Manali,The Manali Inn,3000,4.2,7,86,"Model Town",Deluxe,False,True
+Manali,Snow Crest,3700,4.5,8,89,"Old Manali",Wooden Cottage,True,False
+Manali,Royal Park,4500,4.7,9,93,"Log Huts Area",Suite|Family,True,True
+Dharamshala,Fortune Park,4200,4.6,8,93,"Mcleodganj",Deluxe|Executive,True,True
+Dharamshala,HPTDC Hotel Bhagsu,1800,3.9,6,78,"Bhagsu Nag",Standard,False,False
+Dharamshala,Hotel Tibet,2500,4.1,7,82,"Mcleodganj",Standard|Deluxe,True,True
+Dharamshala,Green Hotel,2900,4.2,7,84,"Bhagsu Road",Eco|Deluxe,True,True
+Dharamshala,Hotel Dhauladhar,3500,4.4,8,88,"Kotwali Bazaar",Premium|Suite,True,False
+Dharamshala,Blossom Village,2300,4.0,6,81,"Mcleodganj",Standard|Cottage,False,True
+Dharamshala,Peace Hotel,2700,4.1,7,83,"Dharamkot",Standard|Deluxe,True,False
+Dharamshala,Hotel Moonpeak,3100,4.3,7,85,"Jogibara Road",Deluxe,True,True
+Dharamshala,Clouds End Villa,3800,4.5,8,89,"Naddi Village",Villa|Suite,True,True
+Dharamshala,Hotel Pink House,2000,3.8,6,77,"Mcleodganj",Standard,False,False
+Dalhousie,Grand View Hotel,4000,4.5,8,91,"Gandhi Chowk",Deluxe|Suite,True,True
+Dalhousie,Hotel Mount View,2200,4.0,6,80,"Subhash Chowk",Standard,False,False
+Dalhousie,Hotel Dalhousie,2800,4.2,7,84,"Subhash Chowk",Deluxe,True,True
+Dalhousie,Hotel Aroma Palace,3500,4.4,8,88,"Gandhi Chowk",Premium|Suite,True,False
+Dalhousie,Hotel Holiday Home,2400,4.1,7,83,"Khyber Road",Standard|Deluxe,False,True
+Dalhousie,Hotel President,3200,4.3,7,86,"GPO Road",Deluxe,True,True
+Dalhousie,Hotel Pine View,1900,3.9,6,79,"Khyber Road",Standard,False,False
+Dalhousie,Hotel Snow Crest,4100,4.6,8,92,"Bakrota Hills",Suite|Villa,True,True
+Dalhousie,Hotel Grand,2600,4.1,7,84,"Subhash Chowk",Standard|Deluxe,True,False
+Dalhousie,Hotel City Heart,3000,4.2,7,85,"Gandhi Chowk",Deluxe,False,True
+Kasauli,Ros Common Guest House,3800,4.4,7,89,"Mall Road",Deluxe|Suite,True,True
+Kasauli,Alasia Hotel,3200,4.3,7,87,"Lower Mall",Standard|Deluxe,True,False
+Kasauli,Hotel Pine Hill,3500,4.4,8,88,"Upper Mall",Deluxe|Suite,True,True
+Kasauli,Hotel Krishna,2500,4.1,7,83,"Mall Road",Standard|Deluxe,False,True
+Kasauli,Hotel Mount View,2900,4.2,7,85,"Garkhal Road",Deluxe,True,False
+Kasauli,Hotel White,3300,4.3,7,86,"Dagshai Road",Premium|Suite,True,True
+Kasauli,Hotel Sun n Snow,2700,4.1,7,84,"Mall Road",Standard,True,False
+Kasauli,Hotel Kasauli Heights,4000,4.6,8,91,"Upper Mall",Suite|Villa,True,True
+Kasauli,Hotel Blue Moon,3100,4.3,7,86,"Lower Mall",Deluxe,False,True
+Kasauli,Hotel Hill View,3600,4.5,8,89,"Garkhal Road",Deluxe|Suite,True,False
+Kasauli,Hotel Pine Crest,3400,4.4,8,88,"Garkhal Road",Deluxe,True,True
+Kasauli,Hotel Whispering Pines,3900,4.5,8,90,"Upper Mall",Suite,True,False
+Kasauli,Hotel Kasauli Retreat,2800,4.2,7,85,"Lower Mall",Standard|Deluxe,False,True
+Palampur,Hotel T-Bud,3200,4.3,7,86,"Tara Devi Road",Deluxe,True,True
+Palampur,Neugal Cafe Hotel,2400,4.1,7,83,"Neugal Khad",Standard,False,False
+Palampur,Hotel Aroma,3500,4.5,8,89,"Bundla Road",Premium|Suite,True,True
+Palampur,Hotel Pine View,2900,4.2,7,85,"Andretta Road",Deluxe,True,False
+Palampur,Hotel Tea County,4100,4.6,8,92,"Tea Garden Road",Villa|Suite,True,True
+Palampur,Hotel Green Hills,2600,4.1,7,84,"Bundla Road",Standard|Deluxe,False,True
+Palampur,Hotel Hilltop,3300,4.4,8,87,"Andretta Road",Deluxe,True,False
+Chamba,Hotel Aroma Palace,2800,4.2,7,85,"Chaugan",Deluxe,True,True
+Chamba,Hotel City Heart,2200,4.0,6,80,"Dalhousie Road",Standard,False,False
+Chamba,Hotel Hill Queen,3100,4.3,7,86,"Chaugan Road",Deluxe|Suite,True,True
+Chamba,Hotel Pine Grove,2500,4.1,7,83,"Bhuri Singh Road",Standard|Deluxe,False,True
+Chamba,Hotel Valley View,3600,4.5,8,89,"Chaugan",Premium|Suite,True,False
+Bir,Hotel The Bir Houses,3000,4.3,7,86,"Bir Road",Cottage|Deluxe,True,True
+Bir,Hotel Eagle's Nest,3800,4.5,8,90,"Paragliding Site",Deluxe|Suite,True,False
+Bir,Hotel Mountain View,2700,4.2,7,84,"Chowgan Road",Standard|Deluxe,False,True
+Bir,Hotel Himalayan Retreat,3400,4.4,8,88,"Upper Bir",Wooden Cottage,True,True
+Bir,Hotel Silver Oaks,2900,4.3,7,85,"Lower Bir",Deluxe,True,False
+Kangra,Hotel Dev Resorts,3500,4.5,8,89,"Dharamshala Road",Deluxe|Suite,True,True
+Kangra,Hotel Pine Crest,2600,4.1,7,84,"Kangra Road",Standard|Deluxe,False,False
+Kangra,Hotel Green Valley,3200,4.3,7,86,"Palampur Road",Deluxe,True,True
+Kangra,Hotel Royal View,4000,4.6,8,91,"Kangra Fort Road",Premium|Suite,True,False
+Kangra,Hotel Hilltop,2800,4.2,7,85,"Kangra Town",Standard|Deluxe,False,True
+Mandi,Hotel Mandav,2300,4.0,6,80,"Mandi Town",Standard,False,False
+Mandi,Hotel River View,3100,4.3,7,86,"Suket Road",Deluxe,True,True
+Mandi,Hotel Pinewood,2700,4.2,7,84,"Mandi Road",Standard|Deluxe,False,True
+Mandi,Hotel Rewa Retreat,3400,4.4,8,88,"Rewalsar Road",Deluxe|Suite,True,False
+Mandi,Hotel Valley Queen,2900,4.3,7,85,"Mandi Town",Deluxe,True,True
+Solan,Hotel Whispering Winds,3200,4.3,7,86,"Solan Road",Deluxe,True,False
+Solan,Hotel Pine Hill,2500,4.1,7,83,"Barog Road",Standard|Deluxe,False,True
+Solan,Hotel The Grand,3800,4.5,8,90,"Solan Town",Premium|Suite,True,True
+Solan,Hotel Hill View,2900,4.2,7,85,"Kasauli Road",Deluxe,True,False
+Solan,Hotel Green Acres,3300,4.4,8,87,"Barog Bypass",Deluxe|Suite,False,True
+Bilaspur,Hotel Satluj View,2600,4.1,7,84,"Bilaspur Town",Standard|Deluxe,True,False
+Bilaspur,Hotel Lakeside,3500,4.5,8,89,"Govind Sagar",Deluxe|Suite,True,True
+Bilaspur,Hotel Pine Crest,2800,4.2,7,85,"Bilaspur Road",Deluxe,False,True
+Bilaspur,Hotel Valley Queen,3100,4.3,7,86,"Anandpur Road",Premium,True,False
+Bilaspur,Hotel Green Hills,2400,4.0,6,81,"Bilaspur Town",Standard,False,True

@@ -1,0 +1,8 @@
+from,to,mode,price
+Delhi,Manali,Bus (AC),1500
+Delhi,Manali,Private Car,5000
+Delhi,Shimla,Bus (AC),1000
+Delhi,Shimla,Private Car,4000
+Delhi,Goa,Flight,7000
+Mumbai,Goa,Train,1000
+Mumbai,Goa,Flight,4000
