@@ -61,7 +61,8 @@ export default function Login() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const res = await axios.post("http://localhost:8000/home/login/", form);
+      const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000/home';
+      const res = await axios.post(`${API_BASE_URL}/login/`, form);
       setMessage(res.data.message);
       if (res) navigate("/");
     } catch (err) {
